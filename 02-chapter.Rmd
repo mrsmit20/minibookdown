@@ -1,0 +1,11 @@
+# Chapter 1?
+
+Why is there a chapter for a fake book? I do not know. Is it just to mess with markdown?
+
+>Possibly
+
+Either way, I must emphasize *this is a fake book*, so why are **you** here? And for that matter, why am ***I*** here in a fake book?
+
+---
+
+I am here just to see what the markdown looks like.
